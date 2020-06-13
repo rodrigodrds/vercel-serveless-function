@@ -1,0 +1,5 @@
+**/.venv
+**/.vercel
+**/.vscode
+
+**/__pycache__/*
